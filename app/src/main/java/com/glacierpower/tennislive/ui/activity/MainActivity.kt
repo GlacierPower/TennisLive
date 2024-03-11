@@ -1,4 +1,4 @@
-package com.glacierpower.tennislive
+package com.glacierpower.tennislive.ui.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
