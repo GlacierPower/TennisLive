@@ -14,5 +14,5 @@ class DomainModule {
     @Provides
     fun provideTennisLiveInteractor(
         tennisLiveRepository: TennisLiveRepository
-    ): TennisLiveInteractor = TennisLiveInteractor(tennisLiveRepository)
+    )= TennisLiveInteractor(tennisLiveRepository)
 }
