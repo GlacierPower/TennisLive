@@ -1,7 +1,7 @@
 package com.glacierpower.tennislive.di
 
 import android.content.Context
-import com.glacierpower.tennislive.data.TennisApiService
+import com.glacierpower.tennislive.data.service.TennisApiService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
